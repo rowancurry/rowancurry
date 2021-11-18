@@ -1,4 +1,4 @@
-![](/assets/images/rainbow1.png) ### Hi there 👋
+![](rainbow1.png) ### Hi there 👋
 
 <!--
 **rowancurry/rowancurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
