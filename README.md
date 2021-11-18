@@ -1,4 +1,4 @@
-![](rainbow2_transparent.png&s=50) ### Hi there 👋 ![](rainbow1_transparent.png)
+<img src="rainbow2_transparent.png" width="50" height="50">
 
 <!--
 **rowancurry/rowancurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
