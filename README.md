@@ -1,6 +1,6 @@
 <img src="rainbow2_transparent.png" width="115" height="115">   <img src="http://i.picasion.com/gl/91/fjNj.gif" width="550" height="100">                              <img src="rainbow1_transparent.png" width="115" height="115">
 
-Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring Data Scientist who's passionate about using data to create impactful solutions to complex problems. I'm also a hobby artist and avid bookworm-- feel free to connect with me on [linkedin](https://www.linkedin.com/in/rowan-curry/), [instagram](https://www.instagram.com/drawingsofsouls/), or [storygraph](https://app.thestorygraph.com/).
+Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring Data Scientist who's passionate about using data to create impactful solutions to complex problems. I'm also a hobby artist and an avid bookworm-- feel free to connect with me on [linkedin](https://www.linkedin.com/in/rowan-curry/), [instagram](https://www.instagram.com/drawingsofsouls/), or [storygraph](https://app.thestorygraph.com/).
 
 - Public Projects:
   - [Toxic Comment Classification](https://github.com/rowancurry/toxic-comment-svm)
