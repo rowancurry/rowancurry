@@ -1,4 +1,4 @@
-<img src="rainbow2_transparent.png" width="200" height="200">  <img src="rainbow1_transparent.png" width="200" height="200">
+<img src="rainbow2_transparent.png" width="200" height="200">  ### Hi !! I'm Rowan  <img src="rainbow1_transparent.png" width="200" height="200">
 
 <!--
 **rowancurry/rowancurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
