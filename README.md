@@ -1,4 +1,4 @@
-<img src="rainbow2_transparent.png" width="115" height="115">   <img src="http://i.picasion.com/gl/91/fjNg.gif" width="550" height="100">                              <img src="rainbow1_transparent.png" width="115" height="115">
+<img src="rainbow2_transparent.png" width="115" height="115">   <img src="http://i.picasion.com/gl/91/fjNj.gif" width="550" height="100">                              <img src="rainbow1_transparent.png" width="115" height="115">
 
 <!--
 **rowancurry/rowancurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
