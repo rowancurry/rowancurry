@@ -8,5 +8,6 @@ Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring
   - [Covid Classification](https://github.com/rowancurry/covid-classification)
   
 - Articles on [Medium](https://medium.com/@curryrowan):
+  - [Gradient Descent: Explained!](https://medium.com/@curryrowan/gradient-descent-explained-c3eaa2566c27)
   - [Simplified Logistic Regression](https://medium.com/@curryrowan/simplified-logistic-regression-classification-with-categorical-variables-in-python-1ce50c4b137)
   - [Play Package Collecting Game Tutorial](https://medium.com/@curryrowan/python-tutorial-play-package-collecting-game-757dfc1cbbb0)
