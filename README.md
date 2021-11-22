@@ -6,6 +6,9 @@ Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring
   - [Toxic Comment Classification](https://github.com/rowancurry/toxic-comment-svm)
   - [Baseball EDA](https://rowancurry.github.io/baseball/baseball_exploration.html)
   - [Covid Classification](https://github.com/rowancurry/covid-classification)
+
+- Public Projects on Kaggle:
+  - [EDA on Goodreads Dataset](https://www.kaggle.com/rowancurry/eda-on-goodreads-dataset/notebook)
   
 - Articles on [Medium](https://medium.com/@curryrowan):
   - [Gradient Descent: Explained!](https://medium.com/@curryrowan/gradient-descent-explained-c3eaa2566c27)
