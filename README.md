@@ -11,6 +11,7 @@ Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring
   - [EDA on Goodreads Dataset](https://www.kaggle.com/rowancurry/eda-on-goodreads-dataset/notebook)
   
 - Articles on [Medium](https://medium.com/@curryrowan):
+  - [A Closer Look at Outliers](https://medium.com/@curryrowan/a-closer-look-at-outliers-58f553ebab2d)
   - [Gradient Descent: Explained!](https://medium.com/@curryrowan/gradient-descent-explained-c3eaa2566c27)
   - [Simplified Logistic Regression](https://medium.com/@curryrowan/simplified-logistic-regression-classification-with-categorical-variables-in-python-1ce50c4b137)
   
