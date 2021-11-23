@@ -8,7 +8,7 @@ Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring
   - [Covid Classification](https://github.com/rowancurry/covid-classification)
 
 - Public Projects on other platforms:
-  - [EDA on Goodreads Dataset](https://www.kaggle.com/rowancurry/eda-on-goodreads-dataset/notebook) (Kaggle)
+  - [EDA on Goodreads Dataset](https://www.kaggle.com/rowancurry/eda-on-goodreads-dataset/notebook) 
   
 - Articles on [Medium](https://medium.com/@curryrowan):
   - [A Closer Look at Outliers](https://medium.com/@curryrowan/a-closer-look-at-outliers-58f553ebab2d)
