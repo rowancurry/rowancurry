@@ -1,4 +1,4 @@
- <img src="https://fontmeme.com/temporary/bd7222f623efad45af28f267d1837d93.png" width="800" height="75">                              
+ <img src="https://fontmeme.com/temporary/858c644506a11ed44893ea73dd7dd7dd.png" width="800" height="75">                              
 
 Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring Data Scientist who's passionate about using data to create impactful solutions to complex problems. I'm also a hobby artist and an avid bookworm-- feel free to connect with me on [linkedin](https://www.linkedin.com/in/rowan-curry/), [instagram](https://www.instagram.com/drawingsofsouls/), or [storygraph](https://app.thestorygraph.com/).
 
