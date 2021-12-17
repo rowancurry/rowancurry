@@ -9,10 +9,7 @@ Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring
   - [EDA on Goodreads Dataset](https://www.kaggle.com/rowancurry/eda-on-goodreads-dataset/notebook) 
   - [R Shiny Books Time Series](https://rowancurry.shinyapps.io/book-time-series/)
 
-- Articles on [Medium](https://medium.com/@curryrowan)! Here are some highlights:
-    -  [Gradient Descent: Explained!](https://medium.com/@curryrowan/gradient-descent-explained-c3eaa2566c27?source=user_profile---------2-------------------------------)
-    -  [Simplified Logistic Regression](https://medium.com/@curryrowan/simplified-logistic-regression-classification-with-categorical-variables-in-python-1ce50c4b137?source=user_profile---------3-------------------------------)
-    -  [Simple & Quick Web Apps in R](https://medium.com/@curryrowan/simple-quick-web-apps-in-r-6841fa58f8d9) 
+- Articles on [Medium](https://medium.com/@curryrowan)! highlights include: [Gradient Descent: Explained!](https://medium.com/@curryrowan/gradient-descent-explained-c3eaa2566c27?source=user_profile---------2-------------------------------), [Simplified Logistic Regression](https://medium.com/@curryrowan/simplified-logistic-regression-classification-with-categorical-variables-in-python-1ce50c4b137?source=user_profile---------3-------------------------------) & [The Three Bs: Bootstrapping, Bagging, and Boosting!](https://medium.com/@curryrowan/the-three-bs-bootstrapping-bagging-boosting-43df4b372a6a?source=user_profile---------0-------------------------------)
   
  
   
