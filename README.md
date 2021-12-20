@@ -5,10 +5,10 @@ Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring
 - Public Projects on Github:
   - [Toxic Comment Classification](https://github.com/rowancurry/toxic-comment-svm): Support Vector Machines Model in Python
   - [Baseball EDA](https://rowancurry.github.io/baseball/baseball_exploration.html): SQL querying using SQLite package in R
-  - [Covid Classification](https://github.com/rowancurry/covid-classification): Logistic Regression, Spectral Clustering, Support Vector Machines, and Decision Trees 
+  - [Covid Classification](https://github.com/rowancurry/covid-classification): Logistic Regression, Spectral Clustering, Support Vector Machines, and Decision Trees in Python
 
 - Public Projects on other platforms:
-  - [EDA on Goodreads Dataset](https://www.kaggle.com/rowancurry/eda-on-goodreads-dataset/notebook): data analysis in R that demonstrates advanced knowledge of dplyr and ggplot2
+  - [EDA on Goodreads Dataset](https://www.kaggle.com/rowancurry/eda-on-goodreads-dataset/notebook): data analysis in R that demonstrates advanced knowledge of dplyr and ggplot2 
   - [R Shiny Books Time Series](https://rowancurry.shinyapps.io/book-time-series/): visualizations corresponding to Goodreads EDA
 
   
