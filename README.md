@@ -8,6 +8,7 @@ Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring
   - [Covid Classification](https://github.com/rowancurry/covid-classification): Logistic Regression, Spectral Clustering, Support Vector Machines, and Decision Trees in Python
 
 - Public Projects on other platforms:
+  - [Logistic Regression Classifier](https://www.kaggle.com/rowancurry/logistic-regression-classifier): Logistic Regression & Encoding of Categorical Variables in Python
   - [EDA on Goodreads Dataset](https://www.kaggle.com/rowancurry/eda-on-goodreads-dataset/notebook): data analysis in R that demonstrates advanced knowledge of dplyr and ggplot2 
   - [R Shiny Books Time Series](https://rowancurry.shinyapps.io/book-time-series/): visualizations corresponding to Goodreads EDA
 
