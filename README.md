@@ -1,6 +1,6 @@
 Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring Data Scientist who's passionate about using data to create impactful solutions to complex problems. I'm also a hobby artist and an avid bookworm-- feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rowan-curry/), [Instagram](https://www.instagram.com/drawingsofsouls/), or [Storygraph](https://app.thestorygraph.com/).
 
-- Data Science blog on [Medium](https://medium.com/@curryrowan). 
+- Data Science blog on [Medium](https://medium.com/@curryrowan) 
 
 - Public Projects on Github:
   - [Toxic Comment Classification](https://github.com/rowancurry/toxic-comment-svm): Support Vector Machines Model in Python
