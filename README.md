@@ -10,7 +10,7 @@ Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring
 - Public Projects on other platforms:
   - [Rain in Australia Classifier](https://www.kaggle.com/rowancurry/random-forests-90-5-accuracy?scriptVersionId=82938158): Random Forests, Feature Importance, Feature Selection, and Encoding
   - [Logistic Regression Classifier](https://www.kaggle.com/rowancurry/logistic-regression-classifier): Logistic Regression & Encoding of Categorical Variables in Python
-  - [EDA on Goodreads Dataset](https://www.kaggle.com/rowancurry/eda-on-goodreads-dataset/notebook): data analysis in R that demonstrates advanced knowledge of dplyr and ggplot2, corresponding Medium Article: [A Closer Look at Outliers](https://medium.com/@curryrowan/a-closer-look-at-outliers-58f553ebab2d
+  - [EDA on Goodreads Dataset](https://www.kaggle.com/rowancurry/eda-on-goodreads-dataset/notebook): data analysis in R that demonstrates advanced knowledge of dplyr and ggplot2, corresponding Medium Article: [A Closer Look at Outliers](https://medium.com/@curryrowan/a-closer-look-at-outliers-58f553ebab2d)
   - [R Shiny Books Time Series](https://rowancurry.shinyapps.io/book-time-series/): visualizations corresponding to Goodreads EDA
 
   
