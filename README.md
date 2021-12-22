@@ -3,6 +3,7 @@ Hi, I'm Rowan! I'm a recent graduate in Statistical Data Science and an aspiring
 - Data Science blog on [Medium](https://medium.com/@curryrowan) 
 
 - Public Projects on Github:
+  - [Mortgage Rates Time Series](https://github.com/rowancurry/Mortgage-Rates): ARMA models, ACF & PACF, exploratory data analysis
   - [Toxic Comment Classification](https://github.com/rowancurry/toxic-comment-svm): Support Vector Machines Model in Python
   - [Baseball EDA](https://rowancurry.github.io/baseball/baseball_exploration.html): SQL querying using SQLite package in R
   - [Covid Classification](https://github.com/rowancurry/covid-classification): Logistic Regression, Spectral Clustering, Support Vector Machines, and Decision Trees in Python
