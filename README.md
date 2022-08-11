@@ -1,4 +1,4 @@
-Hi, I'm Rowan! I'm a Junior Data Scientist who's passionate about using data to create impactful solutions to complex problems. I'm also a hobby artist and an avid bookworm-- feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rowan-curry/) or [Storygraph](https://app.thestorygraph.com/).
+Hi, I'm Rowan! I'm a Data Scientist who's passionate about using data to create impactful solutions to complex problems. I'm also a hobby artist and an avid bookworm-- feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rowan-curry/) or [Storygraph](https://app.thestorygraph.com/).
 
 - Data Science blog on [Medium](https://medium.com/@curryrowan) 
 
